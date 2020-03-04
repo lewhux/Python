@@ -1,2 +1,2 @@
 # Python
-Python work - Computational Quantitative Finance
+Python - Computational Quantitative Finance
